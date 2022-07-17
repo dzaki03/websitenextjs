@@ -1,10 +1,12 @@
 ---
-title: August release
-createdAt: '2021-08-21'
+title: Nasihat
+createdAt: '2022-07-17'
 ---
 
-Nam at erat sed arcu interdum hendrerit. Duis lectus sapien, congue quis rutrum vel, gravida vitae est. Vivamus imperdiet justo non ullamcorper dictum. Pellentesque lorem enim, posuere eget sollicitudin sit amet, consequat id ipsum. Donec sit amet est congue, vehicula nisl sed, sodales odio.
+Saya dapati jiwa itu berat untuk berinfak, lalu saya berkata pada jiwa tersebut.
 
-Cras ut purus eget justo ultricies auctor sit amet non dolor. Fusce mattis in nisl vitae faucibus. Ut at felis quam. Integer tincidunt lobortis neque at facilisis. Nam nulla justo, interdum sed mauris ac, blandit tristique tortor.
+"Bukankah Rabb mu Maha Kaya?"
 
-Quisque non pulvinar turpis. Praesent malesuada nunc ac urna luctus, vel pellentesque tellus auctor. In ut dapibus orci. Nullam sodales justo convallis pulvinar blandit. Cras luctus vitae nisi id euismod.
+Maka tenanglah jiwa tersebut. 
+
+"......Ingatlah hanya dengan mengingat Allah hati menjadi tentram". (Q.S. 13 : 28)

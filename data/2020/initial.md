@@ -1,12 +1,8 @@
 ---
-title: Initial planning
-createdAt: '2020-12-21'
+title: Permulaan
+createdAt: '2022-07-16'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent malesuada diam libero, a bibendum neque fermentum non. Sed consectetur vel erat sed vestibulum. Mauris cursus odio non lectus viverra cursus.
+Segala puji hanya milik Allah Jalla wa 'alaa, Rabb pemilik alam semesta. Yang memberikan petunjuk kepada hamba-Nya yang Dia kehendaki. Shalawat serta salam tercurah kepada Nabi Shallallahu alayhi wa sallam, kepada keluarga beliau, sahabat beliau dan kepada umatnya hingga akhir zaman nanti.
 
-Etiam eu mi non nisi vulputate molestie. Suspendisse nunc dolor, convallis porttitor tempus nec, finibus id sapien. Integer sed velit cursus, sodales velit vitae, malesuada mi. Nam et nulla fringilla, lacinia justo pellentesque, pretium sem. Morbi mattis malesuada dolor eu tincidunt.
-
-- Mauris facilisis ex vitae justo condimentum, eu hendrerit risus tincidunt. Fusce tellus est, mattis lacinia mi eu, accumsan pharetra orci.
-- In vitae vestibulum nisi. Proin lacus quam, tincidunt eget arcu sit amet, posuere aliquam diam. Donec nec libero tortor.
-- Mauris pharetra nulla at metus maximus, ac varius lorem congue.
+Ini hanyalah nasihat yang saya berharap menjadi sebuah kebaikan yang manfaat. Jika di dalamnya ada hal yang bertentangan dengan dalil maka mohon ingatkan saya. Semoga Allah senantiasa memberikan petunjuk kepada penulis dan pembaca.

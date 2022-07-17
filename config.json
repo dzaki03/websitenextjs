@@ -4,13 +4,13 @@
     "name": "data"
   },
   "meta": {
-    "title": "Product Log - Home of your Product's changelogs",
-    "description": "Recent changes to your product and it's benefits",
+    "title": "Mubaarak",
+    "description": "Tulisan-tulisan",
     "image": "/static/ProductLog.png"
   },
   "logo": {
     "image": "/static/logo.svg",
-    "text": "Product Log"
+    "text": "Mubaarak"
   },
   "header": {
     "title": "Changelog",
